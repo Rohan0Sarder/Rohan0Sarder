@@ -10,7 +10,7 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-<h1 align="center">Hi 👋, I'm Rohan0Sarder</h1>
+<h1 align="center">Hi 👋, I'm Rohan Sarder</h1>
 <h3 align="center">A passionate frontend developer from BD</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohan0sarder&label=Profile%20views&color=0e75b6&style=flat" alt="rohan0sarder" /> </p>
 <div align="center">
